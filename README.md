@@ -1,5 +1,5 @@
 # UofM-Data-Science---Machine-Learning-Data-Anslysis-and-Visualization
-A 5-week specilization course that I completed - demonstrating proficiency in data analysis, visualization and appliaction of machine learning models/tools.
+A 5-week specialization course that I completed - demonstrating proficiency in data analysis, visualization and application of machine learning models/tools.
 
 Topics covered: data visualization, data processing/cleaning, and machine learning (regression and classificaion methods using SVMs, logistic regression, decision trees and neural networks).
 
